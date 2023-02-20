@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @pijnenburger, UX Designer at funda
+- 👋 Hi there, I’m @pijnenburger, Sr. UX Designer at Catawiki, previously at funda
 - 👀 I’m interested in design systems and design tooling
 - 🌱 I’m currently learning how to create figma plugins to improve workflows
 
