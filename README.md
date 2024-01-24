@@ -1,3 +1,3 @@
-- 👋 Hi there, I’m @pijnenburger, Sr. UX Designer at Catawiki, previously at funda
+- 👋 Hi there, I’m @pijnenburger, Sr. Product Designer at Moonpig, previously at funda, catawiki & peerby
 - 👀 Interested in design systems, tooling and hi-fi prototyping
 - 🌱 Currently learning to build Figma Plugins & React
