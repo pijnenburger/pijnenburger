@@ -1,3 +1,5 @@
 - 👋 Hi there, I’m @pijnenburger, Sr. Product Designer at Moonpig, previously at funda, catawiki & peerby
 - 👀 Interested in design systems, tooling and hi-fi prototyping
-- 🌱 Currently learning to build Figma Plugins & React
+- 🤖 Uses code as a design tool, to explore ideas & validate concepts
+- 🦾 Learned JS & React over the past years
+- 🌱 Currently diving into Next & Planning to explore Three.js
